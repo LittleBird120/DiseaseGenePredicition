@@ -1,0 +1,2 @@
+这个版本中对DIP中所有人类数据获取进行聚类
+1、getDIPHumandata.py
